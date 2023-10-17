@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697562065 source:d:\extra stuff\add on c dynamic\add on c dynamic 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
